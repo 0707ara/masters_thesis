@@ -19,7 +19,7 @@ In today's educational landscape, vast amounts of data are generated through var
 - **Applications**: Relevant literature, articles, and resources cited in the thesis.
 
 ## License
-This work is published under a "No Modify, No Copy" license. Any redistribution or reproduction of this work must be done with explicit permission from the author.
+This work is published under no license. Any redistribution or reproduction of this work must be done with explicit permission from the author.
 
 ## Author
 Ara Jo - 0707ara.j@gmail.com
